@@ -4,7 +4,7 @@
 To write a Python program to construct an **AVL tree**, balance it, and print the nodes **before and after balancing** using the appropriate packages and built-in function.
 
 ---
-
+ 
 ## ALGORITHM:
 
 **Step 1**: Start the program.
